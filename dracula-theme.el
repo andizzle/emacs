@@ -90,7 +90,7 @@ read it before opening a new issue about your will.")
                 (dracula-red     "#ff5555" "#ff6655" "red")         ; official red
                 (dracula-yellow  "#f1fa8c" "#ffff88" "yellow")      ; official yellow
                 ;; Other colors
-                (bg2             "#373844" "#2e2e2e" "brightblack")
+                (bg2             "#373844" "#808079" "brightblack")
                 (bg3             "#464752" "#262626" "brightblack")
                 (bg4             "#565761" "#3f3f3f" "brightblack")
                 (fg2             "#e2e2dc" "#bfbfbf" "brightwhite")
